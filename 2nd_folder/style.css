@@ -1,0 +1,50 @@
+h1 {
+  color: darksalmon;
+  background-color: beige;
+  height: 90px;
+  width: 50%;
+  /* Color Def: rgb, hex  */
+}
+p {
+  color: aqua;
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: "Times New Roman", Times, serif;
+}
+p #qu1 {
+  color: rgb(80, 125, 223);
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.friend {
+  background-color: crimson;
+}
+img {
+  height: 10%;
+  width: 30%;
+}
+.sp1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.blog {
+  border: 1px solid purple;
+  border-radius: 20px;
+  margin: 10px;
+  width: 30%;
+  display: inline-block;
+  /*  Surrounding if box is you want to set side by side make your know the all measurement of the box modeling  */
+  /* border: 5px solid crimson;
+    border-radius: 30px;
+    margin: 40px;
+    padding: 40px; */
+  /* border: 40px solid blueviolet;
+    height: 800px;
+    width: 800px;
+    background-color: red;
+    margin: 20px;
+    padding: 20px; */
+  /* Box modeling - width , height, border, margin, padding */
+  /* jodi 4 values hoy- then up right down left */
+}
